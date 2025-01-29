@@ -1,0 +1,78 @@
+{
+    "general": [
+        "urgent",
+        "important",
+        "critical",
+        "security alert",
+        "verify",
+        "confirm",
+        "validate",
+        "update",
+        "password",
+        "username",
+        "account",
+        "login",
+        "credentials",
+        "bank",
+        "financial",
+        "invoice",
+        "payment",
+        "transaction",
+        "statement",
+        "billing",
+        "suspicious",
+        "unauthorized",
+        "compromised",
+        "limited time",
+        "act now",
+        "click here",
+        "restricted",
+        "confidential",
+         "free",
+         "bonus",
+         "reward",
+        "prize",
+        "winning"
+
+    ],
+     "personal": [
+        "social security",
+        "date of birth",
+        "mother's maiden name",
+        "passport number",
+        "driver's license",
+        "address"
+     ],
+      "company": [
+        "hr",
+        "human resources",
+         "it",
+        "information technology",
+        "help desk",
+        "support",
+         "admin"
+      ],
+    "url": [
+        "https?:\\/\\/(?:bit\\.ly|tinyurl\\.com|shorturl\\.at)\\/\\w+",
+        "https?:\\/\\/(?!yourdomain\\.com)[\\w\\d\\.\\-]+\\.[\\w\\d\\.\\-]+\\/\\w+",
+         "https?:\\/\\/[\\w\\d\\.\\-]+\\.[\\w\\d\\.\\-]+\\/(?:login|signin|verify|update|account|payment)",
+        "https?:\\/\\/[\\w\\d\\.\\-]+\\.[\\w\\d\\.\\-]+\\/\\w+\\?(?:\\w+=\\w+&?)+"
+    ],
+     "financial": [
+         "transfer",
+         "withdraw",
+         "deposit",
+         "loan",
+         "credit card",
+         "debit card",
+         "wire transfer",
+         "money",
+         "balance"
+     ],
+     "email_specific": [
+         "undeliverable",
+          "delivery failed",
+          "returned mail",
+          "spam report"
+     ]
+}
