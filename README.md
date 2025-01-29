@@ -167,5 +167,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### Authors
 
 -   **CodeByKalvin** - *Initial work* - [GitHub Profile](https://github.com/codebykalvin)
-
-This `readme.md` provides a comprehensive introduction to your HdrX project, including its functionality, how to use it, and information about contributing. It uses the same structure as the previous example for your encryption app and should be well-suited for your project. Let me know if you want any more changes!
