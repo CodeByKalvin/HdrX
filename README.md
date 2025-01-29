@@ -45,8 +45,8 @@ To use HdrX locally, follow these steps:
 #### 1. Clone the Repository
 
 ```bash
-git clone [repository_url]
-cd [repository_directory]
+git clone https://github.com/CodeByKalvin/HdrX.git
+cd HdrX
 ```
 
 #### 2. Install Dependencies
